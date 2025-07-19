@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Simple_ATM {
 	public static void main(String[] args) {
 		Scanner amount=new Scanner(System.in);
-		float balance_amount=10000;
+		float balance_amount=20000;
 		int choice=1;
 		while(choice!=0) {
 			System.out.println("1.Balance Enquiry \n2.Deposit \n3.Withdrawal");
