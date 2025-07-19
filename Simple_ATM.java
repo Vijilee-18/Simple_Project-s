@@ -1,4 +1,5 @@
-
+/*Author:Vijilee George Kurian
+  Description: A Simple Project Based on a Simple ATM Stimulator*/
 
 import java.util.Scanner;
 public class Simple_ATM {
